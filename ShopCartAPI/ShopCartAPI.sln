@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopCartAPI", "ShopCartAPI\ShopCartAPI.csproj", "{AE727DBC-E56C-48FF-B6C1-D4B5B1FA24D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE727DBC-E56C-48FF-B6C1-D4B5B1FA24D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE727DBC-E56C-48FF-B6C1-D4B5B1FA24D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE727DBC-E56C-48FF-B6C1-D4B5B1FA24D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE727DBC-E56C-48FF-B6C1-D4B5B1FA24D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7CC5A17-6108-4DEA-8AC0-6ECD06C339D4}
+	EndGlobalSection
+EndGlobal
